@@ -1,3 +1,6 @@
+### Newsletter
+Sign up to our [newletter](https://docs.google.com/forms/d/e/1FAIpQLSdi3QoQqcQ1V6EC2as-kQQ8bybhfeYQZXG0RrhRseK6zYhEFA/viewform?usp=sf_link) to be notified of future funded project rounds!
+
 <a name="2021-h1" class="intrapage-link"></a>
 ### SFF-2021-H1 grant round  
 SFF is pleased to announce a new grant round, with applications due in March and funds to be distributed in June 2021. For more information please see the announcement below:<br>
